@@ -1,0 +1,1 @@
+NIS APIのpython用自作wrapperを作ってみて構造を理解する．
